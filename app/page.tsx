@@ -432,8 +432,8 @@ export default function Home() {
           <p className="text-base md:text-lg text-gray-400 max-w-2xl mx-auto font-light leading-relaxed mb-10">
             Construo produtos digitais rápidos, escaláveis e bonitos. Do{" "}
             <span className="text-[#00e5ff] font-medium">design</span> ao{" "}
-            <span className="text-[#ff007f] font-medium">deploy</span> — sites,
-            SaaS, e-commerces e APIs sob medida.
+            <span className="text-[#ff007f] font-medium">deploy</span> — Sites,
+            Dashboards, Desenvolvimento de Sistemas Locais"
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 items-center justify-center">
